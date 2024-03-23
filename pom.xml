@@ -11,6 +11,7 @@
     <modules>
         <module>spring-00-Coupling</module>
         <module>spring-01-Core-IoC-Bean-Annotation</module>
+        <module>spring-02-Core-IoC-Stereotype-Annotation</module>
     </modules>
 
     <properties>
