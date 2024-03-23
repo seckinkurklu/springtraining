@@ -1,15 +1,16 @@
-package com.cydeo.loosely_coupled.casefactory;
+package com.cydeo.bean_annotation.casefactory;
 
 public abstract class Case {
 
     private String model;
     private String manufacturer;
-    private String powersupply;
+    private String powerSupply;
 
-    public Case(String model, String manufacturer, String powersupply) {
+
+    public Case(String model, String manufacturer, String powerSupply) {
         this.model = model;
         this.manufacturer = manufacturer;
-        this.powersupply = powersupply;
+        this.powerSupply = powerSupply;
     }
 
     public abstract void pressPowerButton();
