@@ -18,6 +18,7 @@
     </properties>
 
     <dependencies>
+
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context</artifactId>
@@ -28,6 +29,7 @@
             <artifactId>lombok</artifactId>
             <version>1.18.24</version>
         </dependency>
+
     </dependencies>
 
 </project>
