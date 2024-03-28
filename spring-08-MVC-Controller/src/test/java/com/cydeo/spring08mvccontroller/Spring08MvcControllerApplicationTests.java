@@ -1,4 +1,4 @@
-package com.example.spring08mvccontroller;
+package com.cydeo.spring08mvccontroller;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
