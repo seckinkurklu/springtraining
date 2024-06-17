@@ -14,6 +14,7 @@ public class Spring15RestApplication {
 
 	@Bean
 	public ModelMapper mapper() {
+
 		return new ModelMapper();
 	}
 }
